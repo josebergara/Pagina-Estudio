@@ -1,0 +1,42 @@
+body {
+  background-color:rgb(235,203,195);
+  font-family:"Lucida Sans";    
+}
+
+h1 {
+  font-size:1.2rem;
+  text-align: center;
+}
+
+#logo {
+   display:block;
+  opacity: 0;
+  max-width: 60%;
+  max-height: auto;
+  margin-left:auto;
+  margin-right:auto;
+  object-fit:cover;
+  object-position:center;
+}
+
+footer{
+   display: flex;
+   flex-direction:column;
+}
+
+.whatsapp {
+  max-width: 2rem;
+  max-height: 2rem;
+  padding-right: 0.5rem;
+}
+
+#intro {
+  opacity:0;
+  font-family:"Lucida Sans";
+  text-align: center;
+  padding-top:2rem;
+}
+
+.nombre{
+  padding-top:0.4rem;
+}
