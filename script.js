@@ -23,6 +23,6 @@ function fadeIn1(){
       } else {
           clearInterval(intervalID);
           } 
-          }, 250);
+          }, 260);
 
       }
